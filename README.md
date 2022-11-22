@@ -1,4 +1,4 @@
-![Screenshot of app](URL TO YOUR IMG)
+![Screenshot of app](https://github.com/ewearmouth/class-roster-via-api/blob/main/Screen%20Shot%202022-11-22%20at%2010.20.46%20AM.png?raw=true)
 
 # Class Roster via our API data
 
